@@ -2,7 +2,7 @@
 
 Several examples of analysis that demonstrate different use cases
 
-## Sub-directories
+### Sub-directories
 
 * [complexity](complexity/): Demonstrates difference between cyclomatic and cognitive complexity
 
